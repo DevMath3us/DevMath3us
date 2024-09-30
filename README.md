@@ -1,5 +1,5 @@
 # Olá, eu sou Matheus
-- 👨🏿‍🏫 Atualmente Estudo como Docente no Senac DF
+- 👨🏿‍🏫 Atualmente Estudo ADS no Senac DF
 - 🧑🏿‍💻 Trabalho com Figma e Desenvolvimento Front-End
 - 📽️ Procuro colaborar no desenvolvimento de projetos
 - 🧑🏿‍💻 Pergunte-me sobre Desenvolvimento de Sistemas
