@@ -30,10 +30,10 @@
  ### TROPHIES
  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DocenteDevRafael&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevMath3us&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
  <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/DocenteDevRafael/count.svg" />
+  <img src="https://profile-counter.glitch.me/DevMath3us/count.svg" />
  </p>
 
